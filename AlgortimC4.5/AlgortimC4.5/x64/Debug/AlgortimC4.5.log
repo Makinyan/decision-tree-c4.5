@@ -1,0 +1,21 @@
+﻿  AlgortimC4.5.cpp
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(261,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(413,26): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(557,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(558,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(559,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(695,68): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(703,68): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(755,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(768,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(769,38): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(769,38): warning C4267:         with
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(769,38): warning C4267:         [
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(769,38): warning C4267:             _Ty=int
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(769,38): warning C4267:         ]
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(794,30): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(794,30): warning C4267:         with
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(794,30): warning C4267:         [
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(794,30): warning C4267:             _Ty=int
+E:\progOf\visstd\prog\AlgortimC4.5\AlgortimC4.5.cpp(794,30): warning C4267:         ]
+  AlgortimC4.5.vcxproj -> E:\progOf\visstd\prog\AlgortimC4.5\x64\Debug\AlgortimC4.5.exe
